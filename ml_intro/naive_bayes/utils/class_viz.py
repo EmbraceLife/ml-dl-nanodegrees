@@ -7,7 +7,7 @@ import matplotlib
 matplotlib.use('agg')
 
 import matplotlib.pyplot as plt
-%matplotlib inline
+
 
 import pylab as pl
 import numpy as np
@@ -45,7 +45,7 @@ def prettyPicture(clf, X_test, y_test):
     plt.xlabel("bumpiness")
     plt.ylabel("grade")
 
-    plt.savefig("test.png")
+#     plt.savefig("test.png")
     
 import base64
 import json
