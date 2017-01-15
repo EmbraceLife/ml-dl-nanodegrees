@@ -1,4 +1,4 @@
-data/
-images/
-.ipynb_checkpoints/
-utils/*.pyc
+
+ml_intro/naive_bayes/*.png
+ml_intro/naive_bayes/.ipynb_checkpoints/
+ml_intro/naive_bayes/utils/*.pyc
